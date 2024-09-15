@@ -1,4 +1,4 @@
-# Traders Fund Chat
+# nextjs-boilerplate
 
 [![latest](https://github.com/sai-github/traders-fund-chat/actions/workflows/main-build.yml/badge.svg)](https://github.com/sai-github/traders-fund-chat/actions/workflows/main-build.yml)
 
